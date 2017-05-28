@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/2017/IT/programming/AwesomePlatformer/AwesomePlatformer/AwesomePlatformer/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2016-03-16T10:18:04+08:00</SourceTime>
+  <DestFile>C:/2017/IT/programming/AwesomePlatformer/AwesomePlatformer/AwesomePlatformer/Content/bin/Windows/Arial.xnb</DestFile>
+  <DestTime>2017-05-20T14:15:15.5859604+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T14:36:08+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T14:36:08+08:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
